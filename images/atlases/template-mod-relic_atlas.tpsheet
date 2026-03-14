@@ -1,0 +1,28 @@
+{
+    "textures":[
+        {
+            "image":"template-mod-relic_atlas.png",
+            "size":{
+                "w":128,
+                "h":128
+            },
+            "sprites":[
+            {
+                "filename":"basic_relic.png",
+                "region":{
+                    "x":0,
+                    "y":0,
+                    "w":128,
+                    "h":128
+                },
+                "margin":{
+                    "x":0,
+                    "y":0,
+                    "w":0,
+                    "h":0
+                }
+            }
+            ]
+        }
+    ]
+}

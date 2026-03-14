@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://de6lcp0m4kcw4"]
+
+[ext_resource type="Texture2D" uid="uid://caeioqoryu783" path="res://images/atlases/template-mod-relic_outline_atlas.png" id="1_h63ns"]
+
+[resource]
+atlas = ExtResource("1_h63ns")
+region = Rect2(0, 0, 128, 128)
