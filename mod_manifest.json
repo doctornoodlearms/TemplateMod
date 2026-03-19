@@ -3,6 +3,11 @@
     "name":"TemplateMod",
     "author":"doctornooodlearms",
     "version":"1.0.0",
-    "description":"A template mod"
+    "description":"A template mod",
 
+    "id":"doctornoodlearms.template_mod",
+    "has_pck":true,
+    "has_dll":true,
+    "dependencies":[],
+    "affects_gameplay":true
 }
